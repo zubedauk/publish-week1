@@ -220,7 +220,8 @@ article img {
 }
 
 article:first-child {
-   
+   background-color: #f0f8ff;
+    font-style: italic;
 }
 
 
